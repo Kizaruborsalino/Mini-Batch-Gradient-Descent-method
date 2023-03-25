@@ -1,4 +1,5 @@
 # Mini-Batch-Gradient-Descent-method
+Here's a link to the PDF:https://github.com/Kizaruborsalino/Mini-Batch-Gradient-Descent-method/blob/main/Mini%20batch%20gradient%20descent%20method%20LaTex%20PDF.pdf
 
 \documentclass[12pt, letter paper]{article}
 \title{Mini Batch Gradient Descent Method}
